@@ -49,6 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piccassol&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piccassol&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
