@@ -2,7 +2,7 @@
 
 **Founder & AI Architect at ARK Technologies**
 
-## 🚀 Current Projects
+## 🚢 Current Projects
 
 - **[ARK Technologies Infrastructure](https://github.com/piccassol/arktechnologies-infra)** - Enterprise marketing automation platform
 - **
@@ -21,12 +21,9 @@
 
 ## 🎯 Focus Areas
 
-- Marketing Automation Systems
+- Automation Systems
 - AI-Driven Business Solutions  
 - Decentralized Technology Architecture-
--
--
-
   
 - 👀 I’m interested in ML, AI, and web3 development. 
 - 🌱 I’m currently learning how to build complex stacks for decentralized building. 
