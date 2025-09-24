@@ -36,10 +36,12 @@
   </a>
 </div>
 
-🎵 Latest Track
-<div align="center">
-Noah Michél @ AVALON LA
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A492170775&color=%2350c2a6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+**🎧 Noah Michél @ AVALON LA**
+
+[![SoundCloud](https://img.shields.io/badge/Listen_on_SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/noahmichel/your-track-name)
+
+*Click above to listen to my latest set!*
+
 </div>
 
 ## GitHub Stats
