@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A492170775&color=%2350c2a6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/noahmichelmusic" title="Noah Michél" target="_blank" style="color: #cccccc; text-decoration: none;">Noah Michél</a> · <a href="https://soundcloud.com/noahmichelmusic/thisshitrightheretho" title="Noah Michél @ AVALON L.A" target="_blank" style="color: #cccccc; text-decoration: none;">Noah Michél @ AVALON L.A</a></div>
+
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
