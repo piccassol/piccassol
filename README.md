@@ -35,7 +35,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-📊 GitHub Stats
+
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piccassol&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
