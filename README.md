@@ -1,54 +1,16 @@
 # 🚢 Noah Michél | Building the Future of AI & Automation
 
-**Founder & AI Architect at ARK Technologies**
+Founder & AI Architect at ARK Technologies
 
-## 🔥 Current Projects
+🔥 Current Projects
+ARK Technologies Infrastructure - Enterprise marketing automation platform
+Aurora Rift - Decentralized AI systems for tomorrow
+🛠️ Technologies & Tools
+<div align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piccassol&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=piccassol&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=piccassol&color=blueviolet&style=for-the-badge" alt="Profile Views" /> </div>
 
-- **[ARK Technologies Infrastructure](https://github.com/piccassol/arktechnologies-infra)** - Enterprise marketing automation platform
-- **[Aurora Rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-
-## 📱 Socials
-
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
-  </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piccassol&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piccassol&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piccassol&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
   
 - 👀 I’m interested in ML, AI, and web3 development. 
 - 🌱 I’m currently learning how to build complex stacks for decentralized building. 
