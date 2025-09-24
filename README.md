@@ -1,8 +1,8 @@
-# 🚢 Noah Michél | Building the Future of AI & Automation
+#  Noah Michél | Building the Future of AI & Automation
 
 ## Founder & AI Architect at ARK Technologies
 
-## 🔥 Current Projects
+##  Current Projects
 
 - **[ARK Technologies Infrastructure](https://github.com/piccassol/arktechnologies-infra)** - Enterprise marketing automation platform
 - **[Aurora Rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
