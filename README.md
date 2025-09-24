@@ -51,10 +51,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piccassol&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=piccassol&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
