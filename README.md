@@ -15,6 +15,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+## 📴 Socials 
+![Hugging Face](https://huggingface.co/piccassol)
+![Ollama](https://ollama.com/piccassol)
+![npm](https://www.npmjs.com/~piccassol)
+![docker](https://hub.docker.com/u/piccassol)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=dark)
