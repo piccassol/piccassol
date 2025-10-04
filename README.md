@@ -44,17 +44,6 @@
 
 </div>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piccassol&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piccassol&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piccassol&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-  
 - 👀 I’m interested in ML, AI, and web3 development. 
 - 🌱 I’m currently learning how to build complex stacks for decentralized building. 
 - 🚄 I’m looking to collaborate on web3 project particularly in AI on the Solana blockchain. 
