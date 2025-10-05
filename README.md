@@ -4,7 +4,7 @@
 
 ##  Current Projects
 
-- **[ARK Technologies Infrastructure](https://github.com/piccassol/arktechnologies-infra)** - Enterprise marketing automation platform
+- **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
 - **[Aurora Rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
 
 🛠️ Technologies & Tools
