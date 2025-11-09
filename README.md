@@ -1,6 +1,6 @@
 #  Noah Michél | Building the Future of AI & Automation
 
-## Founder & AI Architect at ARK Technologies AI
+## Founder & CTO at ARK Technologies AI
 
 ##  Current Projects
 
