@@ -1,4 +1,6 @@
-#  Noah Michél | Building the Future of AI & Automation
+#  noah michél 
+
+# I design complex systems for people to accelerate with
 
 ## Founder & CTO at ARK Technologies AI
 
