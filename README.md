@@ -1,8 +1,6 @@
-#  noah michél 
-
 # I design complex systems for people to accelerate with
 
-## Founder & CTO at ARK Technologies AI
+## founder & CTO at ARK Technologies AI
 
 ##  Current Projects
 
