@@ -46,7 +46,7 @@
 
 - 👀 I’m interested in ML, AI, and web3 development. 
 - 🌱 I’m currently learning how to build complex stacks for decentralized building. 
-- 🚄 I’m looking to collaborate on web3 project particularly in AI on the Solana blockchain. 
+- 🚄 I’m looking to collaborate on web3 projects particularly in AI on the Solana blockchain. 
 - 📫 How to reach me noah@arktechnologies.ai
 - 🚈 Pronouns: edge/runner
 - ⚡ Fun fact: I just like to build things
