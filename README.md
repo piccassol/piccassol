@@ -1,10 +1,21 @@
-# I design complex systems for people to accelerate with
+I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.
+Founder & CTO @ ARK Technologies AI.
+Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems.
 
 ## founder & CTO at ARK Technologies AI
 
-##  Current Projects
+## Current Focus
+Solana agents 
+
+Rust + async systems
+
+Onchain execution + agent safety
+
+##  Currently Maintaing and Architecture owner:
 
 - **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
+
+- ## Primary contributor:
 - **[aurora.rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
 
 🛠️ Technologies & Tools
