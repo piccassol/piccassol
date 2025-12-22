@@ -4,7 +4,7 @@ Currently leading open-source work across AI agents, Rust/Solana, and full-stack
 
 ## founder & CTO at ARK Technologies AI
 
-## Current Focus
+## Current Focus:
 Solana agents 
 
 Rust + async systems
