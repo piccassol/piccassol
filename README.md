@@ -4,7 +4,7 @@ Founder & CTO @ ArK Technologies AI.
 
 Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems.
 
-## founder & CTO at ARK Technologies AI
+## founder & CTO at Ark Technologies AI
 
 ## Current Focus:
 Solana agents 
