@@ -11,11 +11,11 @@ Rust + async systems
 
 Onchain execution + agent safety
 
-##  Currently Maintaing and Architecture owner:
+##  Currently Maintaing:
 
 - **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
 
-- ## Primary contributor:
+- ## Architecture owner:
 - **[aurora.rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
 
 🛠️ Technologies & Tools
