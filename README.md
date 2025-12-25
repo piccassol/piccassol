@@ -29,9 +29,9 @@ Data Layer: Prisma
 
 ##  Currently Maintaing & Owning:
 
-- **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
+- **[Ark Technologies AI Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
 
-- ## Architecture owner:
+## Architecture Owner:
 - **[aurora.rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
 
 🛠️ Technologies & Tools
