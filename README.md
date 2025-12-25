@@ -13,6 +13,22 @@ Rust + async systems
 
 Onchain execution + agent safety
 
+
+
+## Tech Stack (Full-Stack Applications)
+
+Frontend: Next.js / React
+
+Backend: Node.js, Python (FastAPI, Redis, Celery)
+
+Database: PostgreSQL
+
+Auth: OAuth, NextAuth, Clerk
+
+Infra / DevOps: Docker (local parity & deployment), Railway / AWS
+
+Data Layer: Prisma
+
 ##  Currently Maintaing:
 
 - **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
