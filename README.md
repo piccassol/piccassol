@@ -1,7 +1,5 @@
 I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.
 
-Founder & CTO @ ArK Technologies AI.
-
 Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems.
 
 ## founder & CTO at Ark Technologies AI
@@ -29,7 +27,7 @@ Infra / DevOps: Docker (local parity & deployment), Railway / AWS
 
 Data Layer: Prisma
 
-##  Currently Maintaing:
+##  Currently Maintaing & Owning:
 
 - **[ARK Technologies Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
 
