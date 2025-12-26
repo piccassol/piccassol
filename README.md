@@ -1,5 +1,3 @@
-## Founder & CTO at Ark Technologies AI
-
 I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.
 (oh and sometimes I fine-tune a model or two.)
 
