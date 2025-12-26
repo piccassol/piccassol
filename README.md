@@ -13,7 +13,7 @@ Onchain execution + agent safety
 
 
 
-## Tech Stack (Full-Stack Applications)
+## Tech Stack 
 
 Frontend: Next.js / React
 
