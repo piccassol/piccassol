@@ -64,7 +64,7 @@ Data Layer: Prisma
   </a>
 </div>
 
-🎧 Noah Michél DJ set @ AVALON LA
+🎧 DJ set @ AVALON LA
 [![SoundCloud](https://img.shields.io/badge/Listen_on_SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/noahmichel/your-track-name)
 
 *Click above to listen to my latest set!*
