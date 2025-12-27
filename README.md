@@ -17,7 +17,7 @@ Onchain execution + agent safety
 
 Frontend: Next.js / React
 
-Backend: Node.js, Python (FastAPI, Redis, Celery)
+Backend: Node.js, Python (FastAPI, Redis, Celery), Rust
 
 Database: PostgreSQL
 
