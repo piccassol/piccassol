@@ -15,7 +15,7 @@ Onchain execution + agent safety
 
 ## Tech Stack 
 
-Frontend: Next.js / React
+Frontend: Typescript / Javascript (Next.js, React)
 
 Backend: Node.js, Python (FastAPI, Redis, Celery), Rust
 
