@@ -11,7 +11,7 @@ Rust + async systems
 
 Onchain execution + agent safety
 
-new to oss and github but not new to code, give me a follow and I'll follow back!
+(new to oss and github but not new to code, give me a follow and I'll follow back!)
 
 
 
