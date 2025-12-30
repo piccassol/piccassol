@@ -77,7 +77,7 @@ Data Layer: Prisma
 - 🚈 Pronouns: edge/runner
 - ⚡ Fun fact: I just like to build things
 
-new to open-source and github but not new to code, give me a follow and I'll follow back!
+(new to open-source and github but not new to code, give me a follow and I'll follow back!)
 <!---
 piccassol/piccassol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
