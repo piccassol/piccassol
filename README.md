@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
+<img src="https://img.shields.io/badge/Shell-31E301?style=for-the-badge&logo=gnubash&logoColor=black" alt="Shell" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.🦀⚙️
 
 (oh and sometimes I fine-tune a model or two)
