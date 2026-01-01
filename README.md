@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img
 
  
+
 I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.🦀⚙️
 
 (oh and sometimes I fine-tune a model or two)
