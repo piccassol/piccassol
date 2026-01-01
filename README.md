@@ -38,6 +38,16 @@ Infra / DevOps: Docker (local parity & deployment), Railway / AWS
 
 Data Layer: Prisma
 
+
+##🤝 Recent PR Contributions
+🔄 Merged PR #16 in tetsuo-ai/AgenC - Add Solana coordination module for decentralized multi-agent coordination (Yesterday)
+
+Implemented Anchor program for agent registry and task marketplace.
+
+Created C client library for the AgenC communication interface.
+
+Added PDA-based coordination with automatic escrow payments.
+
 ##  Currently Maintaing & Owning:
 
 - **[Ark Technologies AI Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
