@@ -39,10 +39,10 @@ Infra / DevOps: Docker (local parity & deployment), Railway / AWS
 Data Layer: Prisma
 
 
-#$ Recent PR Contributions
+## Recent PR Contributions
 
 
-🔄 Merged PR #16 in tetsuo-ai/AgenC - Add Solana coordination module for decentralized multi-agent coordination (Yesterday)
+🔄 Merged PR #16 in tetsuo-ai/AgenC - Add Solana coordination module for decentralized multi-agent coordination 
 
 Implemented Anchor program for agent registry and task marketplace.
 
