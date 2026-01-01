@@ -12,6 +12,8 @@
 
 
  
+============================================================================================
+
 
 
 I build and maintain agentic systems, AI infrastructure, and Solana-integrated tooling.🦀⚙️
