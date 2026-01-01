@@ -34,20 +34,6 @@ Rust + async systems
 Onchain execution + agent safety
 
 
-## Tech Stack 
-
-Frontend: Typescript / Javascript (Next.js, React)
-
-Backend: Node.js, Python (FastAPI, Redis, Celery), Rust
-
-Database: PostgreSQL
-
-Auth: OAuth, NextAuth, Clerk
-
-Infra / DevOps: Docker (local parity & deployment), Railway / AWS
-
-Data Layer: Prisma
-
 
 ## Recent PR Contributions
 
