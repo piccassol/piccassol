@@ -18,7 +18,6 @@
 =======================================================================
 
 
-
 I build and maintain agentic systems, ML infrastructure, and Solana-integrated tooling.🦀⚙️
 
 (oh and sometimes I fine-tune a model or two)
@@ -35,16 +34,6 @@ Onchain execution + agent safety
 
 
 
-## Recent PR Contributions
-
-
-🔄 Merged PR #16 in tetsuo-ai/AgenC - Add Solana coordination module for decentralized multi-agent coordination 
-
-Implemented Anchor program for agent registry and task marketplace.
-
-Created C client library for the AgenC communication interface.
-
-Added PDA-based coordination with automatic escrow payments.
 
 ##  Currently Maintaing & Owning:
 
