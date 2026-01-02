@@ -71,9 +71,6 @@ Onchain execution + agent safety
 </div>
 
 
-- 📫 How to reach me noah@arktechnologies.ai
-- 🚈 Pronouns: edge/runner
-
 
 (new to open-source and github but not new to code, give me a follow and I'll follow back!)
 <!---
