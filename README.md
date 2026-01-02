@@ -24,16 +24,6 @@ I build and maintain agentic systems, ML infrastructure, and Solana-integrated t
 
 Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems.
 
-
-## Current Focus:
-Solana agents 
-
-Rust + async systems
-
-Onchain execution + agent safety
-
-
-
 </div>
 📱 Socials
 <div align="left">
