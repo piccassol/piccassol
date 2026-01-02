@@ -34,14 +34,6 @@ Onchain execution + agent safety
 
 
 
-
-##  Currently Maintaing & Owning:
-
-- **[Ark Technologies AI Infrastructure](https://arktechnologies.ai)** - Enterprise marketing automation platform
-
-## Architecture Owner:
-- **[aurora.rift](https://github.com/piccassol/aurora.rift)** - Decentralized AI systems for tomorrow
-
 </div>
 📱 Socials
 <div align="left">
