@@ -17,10 +17,10 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
  
-=======================================================================
 
 
-I build and maintain agentic systems, ML infrastructure, and Solana-integrated tooling.🦀⚙️
+
+I build and maintain agentic systems, ML infrastructure, and Solana-integrated tooling🦀
 
 (oh and sometimes I fine-tune a model or two)
 
