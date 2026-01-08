@@ -1,10 +1,10 @@
 <div align="left">
 
  Langs:
+ <img src="https://img.shields.io/badge/Shell-31E301?style=for-the-badge&logo=gnubash&logoColor=black" alt="Shell" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Shell-31E301?style=for-the-badge&logo=gnubash&logoColor=black" alt="Shell" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 
