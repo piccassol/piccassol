@@ -22,7 +22,7 @@
 
 
 
-## I build and maintain agentic systems, ML infrastructure ↭
+## I build and maintain agentic systems & ML infrastructure ↭
 (oh and sometimes I fine-tune a model or two)
 ## Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems ツ
 
