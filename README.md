@@ -1,6 +1,7 @@
 <div align="left">
 
- Langs:
+## 🦀 Langs:
+
  <img src="https://img.shields.io/badge/Shell-31E301?style=for-the-badge&logo=gnubash&logoColor=black" alt="Shell" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -8,7 +9,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 
- Tools:
+ ## 🪛 Tools:
+ 
  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
@@ -20,14 +22,13 @@
 
 
 
-I build and maintain agentic systems, ML infrastructure, and Solana-integrated tooling🦀
-
+## I build and maintain agentic systems, ML infrastructure ↭
 (oh and sometimes I fine-tune a model or two)
-
-Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems.
+## Currently leading open-source work across AI agents, Rust/Solana, and full-stack systems ツ
 
 </div>
-📱 Socials
+ 
+ ## Socials: 
 <div align="left">
   </a>
   <a href="https://huggingface.co/piccassol" target="_blank">
@@ -47,7 +48,7 @@ Currently leading open-source work across AI agents, Rust/Solana, and full-stack
   </a>
 </div>
 
-🎧 DJ set @ AVALON LA
+ ## 💽 DJ set @ AVALON LA ⇂
 [![SoundCloud](https://img.shields.io/badge/Listen_on_SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/noahmichelmusic/thisshitrightheretho)
 
 
