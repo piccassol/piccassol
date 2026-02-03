@@ -37,7 +37,7 @@
   <a href="https://ollama.com/piccassol" target="_blank">
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   </a>
-  <a href="https://x.com/p1ccassol" target="_blank">
+  <a href="https://x.com/tetsuophi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://hub.docker.com/u/piccassol" target="_blank">
