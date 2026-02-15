@@ -48,12 +48,7 @@
   </a>
 </div>
 
- ## 💽 DJ set @ AVALON LA ⇂
-[![SoundCloud](https://img.shields.io/badge/Listen_on_SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/noahmichelmusic/thisshitrightheretho)
 
-
-
-</div>
 
 
 
